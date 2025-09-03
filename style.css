@@ -158,7 +158,7 @@ form {
     #toggle:checked + .menu-icon + .menu {
         display: flex;
     }
-    .menu_icon {
+    .menu-icon {
         display: block;
     }
     .dropdown:hover .submenu {
